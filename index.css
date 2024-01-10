@@ -313,7 +313,7 @@ textarea::placeholder{
         width: 150px;
         height: auto;
         padding-left: 10px;
-        margin-left: 20%;
+        margin: 10px 0 0 10px;
     }
     .set-row .about-content .btn{
         background: green;
