@@ -324,4 +324,13 @@ textarea::placeholder{
         border-radius: 50px;
         transition: all ease 0.5s;
     }
+    .contact-row form input, textarea{
+    width: 60%;
+    height: 40px;
+    margin-top: 20px;
+    padding: 6px 0;
+    text-indent: 10px;
+    font-size: 14px;
+    background-color: #e7f0f3ac;
+}
 }
