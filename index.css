@@ -268,9 +268,12 @@ textarea::placeholder{
         position: absolute;
         right: 0;
         top: 14%;
-        width: 200px;
+        width: 100%;
         height: auto;
         background: #072019;
+    }
+    .navbar{
+        width: 100%;
     }
     .navmenu li{
         display: block;
